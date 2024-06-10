@@ -3,6 +3,8 @@
 
 This web development framework, titled "Empowering Learners," focuses on fostering a learner-centric approach to education. By utilizing interactive elements and fostering active participation, the framework aims to equip educators with the tools necessary to create engaging and effective online learning experiences.
 
+![image](https://github.com/ABharati2003/empowering_learners/assets/137520896/e8be1c74-05b2-4cac-b207-abfcff55036e)
+
 Key Features:
 
 Interactive Content Creation: Enables the creation of interactive elements like quizzes, polls, simulations, and branching scenarios, fostering deeper engagement and knowledge retention.
