@@ -5,6 +5,9 @@ This web development framework, titled "Empowering Learners," focuses on fosteri
 
 ![image](https://github.com/ABharati2003/empowering_learners/assets/137520896/e8be1c74-05b2-4cac-b207-abfcff55036e)
 
+
+
+
 Key Features:
 
 Interactive Content Creation: Enables the creation of interactive elements like quizzes, polls, simulations, and branching scenarios, fostering deeper engagement and knowledge retention.
